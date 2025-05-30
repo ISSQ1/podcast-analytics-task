@@ -1,6 +1,6 @@
-# 🎧 Podcast Listening Analysis – Thamanyah Internship Task
+# 🎧 Podcast Listening Analysis – Thmanyah Internship Task
 
-This project was submitted as part of the technical assignment for a data internship with **Thamanyah**.  
+This project was submitted as part of the technical assignment for a data internship with **Thmanyah**.  
 The goal of this project is to analyze podcast listening behavior, generate insights, and implement a simple recommendation system.
 
 ---
